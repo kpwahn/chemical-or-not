@@ -12,7 +12,8 @@ import {updateSearchValue} from './actions'
 
 const additionalOptions = [
   {label: 'Everything', value: undefined},
-  {label: 'Sodium', value: 'sodium'}
+  {label: 'Sodium', value: 'sodium'},
+  {label: 'Isethionate', value: 'Isethionate'}
 ]
 
 const components = {
